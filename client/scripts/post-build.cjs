@@ -10,5 +10,4 @@ async function postBuild() {
     process.exit(1);
   }
 }
-
 postBuild();
